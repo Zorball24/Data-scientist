@@ -116,4 +116,3 @@ def menu(hash)
 end
 
 menu(hash)
-puts hash.values_at("Russian Miner...")
