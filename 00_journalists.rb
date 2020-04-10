@@ -129,7 +129,7 @@ def menu(array)
         if choice == 1
             puts nb_of_journalist(array)
         elsif choice == 2
-            puts nb_contain_nb(array)
+            puts nb_of_contain_nb(array)
         elsif choice == 3
             puts nb_of_letter_suite(array, ["a", "u", "d", "e"])
         elsif choice == 4
